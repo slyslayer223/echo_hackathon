@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "IWantPizzaIntent",
+      "slots": [
+        {
+          "name":"ToppingOne",
+          "type":"LITERAL"
+        },
+        {
+          "name":"ToppingTwo",
+          "type":"LITERAL"
+        },
+        {
+          "name":"ToppingThree",
+          "type":"LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "TrackerIntent",
+      "slots": []
+    }
+  ]
+}

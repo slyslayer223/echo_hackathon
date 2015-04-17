@@ -1,0 +1,67 @@
+Example phrases:
+I'd like to order a pizza
+I want to order a pizza
+How's my pizza doing?
+What's the status of my pizza?
+Where is my pizza?
+Is my pizza in the oven?
+
+Order Branch -
+
+Response:
+What kind?
+
+Request:
+scattered (with, and)
+(large | medium | small) (topping), ...
+
+Response:
+Ok you want (order), should I place the order or edit it?
+
+Request:
+(Place it~ | edit)
+
+Edit Branch -
+
+Tracker Branch -
+
+Reponse:
+Your pizza is (status)
+
+Sauce:
+Robust Inspired Tomato Sauce (Default)
+Hearty Marinara Sauce
+BBQ Sauce
+Garlic Parmesan White Sauce
+
+Meat:
+Pepperoni
+Italian Sausage
+Sliced Italian Sausage
+Beef
+Philly Steak
+Ham
+Bacon
+Salami
+Premium Chicken
+
+Non-meats:
+Cheddar Cheese
+Feta Cheese
+Shredded Parmesan Asiago
+Shredded Provolone Cheese
+Banana Peppers
+Black Olives
+Garlic
+Green Peppers
+Jalapeno Peppers
+Mushrooms
+Pineapple
+Onions
+Roasted Red Peppers
+Spinach
+Diced Tomatoes
+Hot Sauce
+
+
+

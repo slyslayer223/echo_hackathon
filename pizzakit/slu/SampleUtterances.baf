@@ -1,0 +1,9 @@
+IWantPizzaIntent {cheese|ToppingOne}
+IWantPizzaIntent {cheese|ToppingOne} {ham|ToppingTwo}
+IWantPizzaIntent {cheese|ToppingOne} {ham|ToppingTwo} {pineapple|ToppingThree}
+IWantPizzaIntent I'd like to order a pizza
+IWantPizzaIntent I want to order a pizza
+IWantPizzaIntent How's my pizza doing?
+IWantPizzaIntent What's the status of my pizza?
+TrackerIntent Where is my pizza?
+TrackerIntent Is my pizza in the oven?
